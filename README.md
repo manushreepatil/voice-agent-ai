@@ -56,7 +56,7 @@ Audio Input (.wav/.mp3 or mic)
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/YOUR_USERNAME/voice-agent-ai.git
+git clone https://github.com/manushreepatil/voice-agent-ai.git
 cd voice-agent-ai
 ```
 
@@ -193,9 +193,9 @@ voice-agent-ai/
 
 ## 📝 Submission Links
 
-- **GitHub**: https://github.com/YOUR_USERNAME/voice-agent-ai
-- **Video Demo**: [YouTube Unlisted]
-- **Article**: [Medium / Dev.to / Substack]
+- **GitHub**: https://github.com/manushreepatil/voice-agent-ai
+- **Video Demo**: https://www.loom.com/share/477a2e16f1144f91800194819ea06c35
+- **Article**: https://dev.to/manushree_patil_22e650fcc/building-a-voice-controlled-local-ai-agent-with-whisper-groq-streamlit-3dfj
 - **Submission Form**: https://forms.gle/5x32P7zr4NvyRgK6A
 
 ---
