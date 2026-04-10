@@ -6,8 +6,8 @@
 
 ## 📸 Demo
 
-> **Video Demo**: [YouTube Unlisted Link — add after recording]  
-> **Technical Article**: [Medium/Dev.to Link — add after publishing]
+> **Video Demo**: [https://www.loom.com/share/477a2e16f1144f91800194819ea06c35]  
+> **Technical Article**: [https://dev.to/manushree_patil_22e650fcc/building-a-voice-controlled-local-ai-agent-with-whisper-groq-streamlit-3dfj]
 
 ---
 
