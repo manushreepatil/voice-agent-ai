@@ -1,0 +1,21 @@
+# Core
+streamlit>=1.35.0
+requests>=2.31.0
+python-dotenv>=1.0.0
+
+# STT - Local (HuggingFace Whisper)
+transformers>=4.40.0
+torch>=2.1.0
+torchaudio>=2.1.0
+# On CPU-only machines, install CPU-only torch:
+# pip install torch torchaudio --index-url https://download.pytorch.org/whl/cpu
+
+# STT - Cloud fallback
+groq>=0.9.0
+
+# LLM - Cloud fallbacks (Ollama is a separate binary, not pip)
+openai>=1.30.0
+# groq already listed above
+
+# Optional: microphone recording in Streamlit
+# st-audiorec>=0.1.3
